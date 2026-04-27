@@ -1,0 +1,5 @@
+# Northshore Logistics Ltd — CPS4004 Database Systems
+# Required Python libraries
+# Install with: pip install -r requirements.txt
+
+pandas>=2.0.0
